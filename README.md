@@ -1,1 +1,1 @@
-# Practical_task
+# Sampling benchmark from standard distributions
